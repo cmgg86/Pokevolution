@@ -39,14 +39,6 @@ body{
     margin:10px;
 }
 
-.section-div-figure-form{
-    text-align:center;
-}
-
-.section-div-figure-div-input{
-    display:block;
-}
-
 .section-div-figure-img{
     max-width:48px;
     width:100%;
@@ -54,9 +46,13 @@ body{
     margin:10px;
 }
 
-.section-div-figure-figcaption{
-    text-align:center;
+.section-div-figure-figcaption-form-label{
     color:#000;
+    margin:5px;
+}
+
+.section-div-figure-figcaption-form-input{
+    margin:5px;
 }
 
 .footer{

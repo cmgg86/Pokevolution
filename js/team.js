@@ -9,25 +9,32 @@ for(i=0;i<pokedex.length;i++){
     const figure=document.createElement("figure")
     figure.setAttribute("class","section-div-figure")
 
-    const form=document.createElement("form")
-    form.setAttribute("class","section-div-figure-form")
-
-    const input=document.createElement("input")
-    input.setAttribute("class","section-div-figure-form-input")
-    input.setAttribute("type","checkbox")
-    input.setAttribute("id",pokedex[i].id)
-    input.setAttribute("onchange","getPokemon("+pokedex[i].id+")")
-
     const img=document.createElement("img")
     img.setAttribute("class","section-div-figure-img")
+    img.setAttribute("alt",pokedex[i].name)
     img.setAttribute("src",pokedex[i].image)
 
     const figcaption=document.createElement("figcaption")
     figcaption.setAttribute("class","section-div-figure-figcaption")
-    figcaption.innerHTML=pokedex[i].name
 
+    const form=document.createElement("form")
+    form.setAttribute("class","section-div-figure-figcaption-form")
+
+    const label=document.createElement("label")
+     label.setAttribute("class","section-div-figure-figcaption-form-label")
+    label.setAttribute("for",pokedex[i].id)
+    label.innerHTML=pokedex[i].name
+
+    const input=document.createElement("input")
+    input.setAttribute("class","section-div-figure-figcaption-form-input")
+    input.setAttribute("type","checkbox")
+    input.setAttribute("id",pokedex[i].id)
+    input.setAttribute("onchange","getPokemon("+pokedex[i].id+")")
+
+    form.appendChild(label)
     form.appendChild(input)
-    figure.appendChild(form)
+    figcaption.appendChild(form)
+
     figure.appendChild(img)
     figure.appendChild(figcaption)
     divElement.appendChild(figure)
