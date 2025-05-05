@@ -13,8 +13,8 @@ for(i=0;i<pokedex.length;i++){
     img.setAttribute("class","section-div-figure-img")
     img.setAttribute("alt",pokedex[i].name)
     img.setAttribute("src",pokedex[i].image)
-    img.setAttribute('width',48)
-    img.setAttribute('height',48)
+    img.setAttribute('width',300)
+    img.setAttribute('height',300)
 
     const figcaption=document.createElement("figcaption")
     figcaption.setAttribute("class","section-div-figure-figcaption")
