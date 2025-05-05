@@ -1,7 +1,7 @@
 const pokedex=[{
         id:0,
         name:"Venusaur",
-        image:"../images/0.png",
+        image:"../images/0.webp",
         types:["GRASS","POISON"],
         sensitivity:{
                 NORMAL:1,
@@ -27,7 +27,7 @@ const pokedex=[{
     {
         id:1,
         name:"Charizard",
-        image:"../images/1.png",
+        image:"../images/1.webp",
         types:["FIRE","FLYING"],
         sensitivity:{
                 NORMAL:1,
@@ -53,7 +53,7 @@ const pokedex=[{
     {
         id:2,
         name:"Blastoise",
-        image:"../images/2.png",
+        image:"../images/2.webp",
         types:["WATER"],
         sensitivity:{
                 NORMAL:1,
@@ -79,7 +79,7 @@ const pokedex=[{
     {
         id:3,
         name:"Butterfree",
-        image:"../images/3.png",
+        image:"../images/3.webp",
         types:["BUG","FLYING"],
         sensitivity:{
                 NORMAL:1,
@@ -105,7 +105,7 @@ const pokedex=[{
     {
         id:4,
         name:"Beedrill",
-        image:"../images/4.png",
+        image:"../images/4.webp",
         types:["BUG","POISON"],
         sensitivity:{
                 NORMAL:1,
@@ -131,7 +131,7 @@ const pokedex=[{
     {
         id:5,
         name:"Pidgeot",
-        image:"../images/5.png",
+        image:"../images/5.webp",
         types:["NORMAL","FLYING"],
         sensitivity:{
                 NORMAL:1,
@@ -157,7 +157,7 @@ const pokedex=[{
     {
         id:6,
         name:"Raticate",
-        image:"../images/6.png",
+        image:"../images/6.webp",
         types:["NORMAL"],
         sensitivity:{
                 NORMAL:1,
@@ -183,7 +183,7 @@ const pokedex=[{
     {
         id:7,
         name:"Alolan Raticate",
-        image:"../images/7.png",
+        image:"../images/7.webp",
         types:["DARK","NORMAL"],
         sensitivity:{
                 NORMAL:1,
@@ -209,7 +209,7 @@ const pokedex=[{
     {
         id:8,
         name:"Fearow",
-        image:"../images/8.png",
+        image:"../images/8.webp",
         types:["NORMAL","FLYING"],
         sensitivity:{
                 NORMAL:1,
@@ -235,7 +235,7 @@ const pokedex=[{
     {
         id:9,
         name:"Arbok",
-        image:"../images/9.png",
+        image:"../images/9.webp",
         types:["POISON"],
         sensitivity:{
                 NORMAL:1,
@@ -261,7 +261,7 @@ const pokedex=[{
     {
         id:10,
         name:"Raichu",
-        image:"../images/10.png",
+        image:"../images/10.webp",
         types:["ELECTRIC"],
         sensitivity:{
                 NORMAL:1,
@@ -287,7 +287,7 @@ const pokedex=[{
     {
         id:11,
         name:"Alolan Raichu",
-        image:"../images/11.png",
+        image:"../images/11.webp",
         types:["ELECTRIC","PSYCHIC"],
         sensitivity:{
                 NORMAL:1,
@@ -313,7 +313,7 @@ const pokedex=[{
     {
         id:12,
         name:"Sandslash",
-        image:"../images/12.png",
+        image:"../images/12.webp",
         types:["GROUND"],
         sensitivity:{
                 NORMAL:1,
@@ -339,7 +339,7 @@ const pokedex=[{
     {
         id:13,
         name:"Alolan Sandslash",
-        image:"../images/13.png",
+        image:"../images/13.webp",
         types:["ICE","STEEL"],
         sensitivity:{
                 NORMAL:0.5,
@@ -365,7 +365,7 @@ const pokedex=[{
     {
         id:14,
         name:"Nidoqueen",
-        image:"../images/14.png",
+        image:"../images/14.webp",
         types:["POISON","GROUND"],
         sensitivity:{
                 NORMAL:1,
@@ -391,7 +391,7 @@ const pokedex=[{
     {
         id:15,
         name:"Nidoking",
-        image:"../images/15.png",
+        image:"../images/15.webp",
         types:["POISON","GROUND"],
         sensitivity:{
                 NORMAL:1,
@@ -417,7 +417,7 @@ const pokedex=[{
     {
         id:16,
         name:"Clefable",
-        image:"../images/16.png",
+        image:"../images/16.webp",
         types:["FAIRY"],
         sensitivity:{
                 NORMAL:1,
@@ -443,7 +443,7 @@ const pokedex=[{
     {
         id:17,
         name:"Ninetales",
-        image:"../images/17.png",
+        image:"../images/17.webp",
         types:["FIRE"],
         sensitivity:{
                 NORMAL:1,
@@ -469,7 +469,7 @@ const pokedex=[{
     {
         id:18,
         name:"Alolan Ninetales",
-        image:"../images/18.png",
+        image:"../images/18.webp",
         types:["ICE","FAIRY"],
         sensitivity:{
                 NORMAL:1,
@@ -495,7 +495,7 @@ const pokedex=[{
     {
         id:19,
         name:"Wigglytuff",
-        image:"../images/19.png",
+        image:"../images/19.webp",
         types:["NORMAL","FAIRY"],
         sensitivity:{
                 NORMAL:1,
@@ -521,7 +521,7 @@ const pokedex=[{
     {
         id:20,
         name:"Crobat",
-        image:"../images/20.png",
+        image:"../images/20.webp",
         types:["POISON","FLYING"],
         sensitivity:{
                 NORMAL:1,
@@ -547,7 +547,7 @@ const pokedex=[{
     {
         id:21,
         name:"Vileplume",
-        image:"../images/21.png",
+        image:"../images/21.webp",
         types:["GRASS","POISON"],
         sensitivity:{
                 NORMAL:1,
@@ -573,7 +573,7 @@ const pokedex=[{
     {
         id:22,
         name:"Bellossom",
-        image:"../images/22.png",
+        image:"../images/22.webp",
         types:["GRASS"],
         sensitivity:{
                 NORMAL:1,
@@ -599,7 +599,7 @@ const pokedex=[{
     {
         id:23,
         name:"Parasect",
-        image:"../images/23.png",
+        image:"../images/23.webp",
         types:["BUG","GRASS"],
         sensitivity:{
                 NORMAL:1,
@@ -625,7 +625,7 @@ const pokedex=[{
     {
         id:24,
         name:"Venomoth",
-        image:"../images/24.png",
+        image:"../images/24.webp",
         types:["BUG","POISON"],
         sensitivity:{
                 NORMAL:1,
@@ -651,7 +651,7 @@ const pokedex=[{
     {
             id:25,
             name:"Dugtrio",
-            image:"../images/25.png",
+            image:"../images/25.webp",
             types:["GROUND"],
             sensitivity:{
                 NORMAL:1,
@@ -677,7 +677,7 @@ const pokedex=[{
         {
             id:26,
             name:"Alolan Dugtrio",
-            image:"../images/26.png",
+            image:"../images/26.webp",
             types:["GROUND","STEEL"],
             sensitivity:{
                     NORMAL:0.5,
@@ -703,7 +703,7 @@ const pokedex=[{
         {
             id:27,
             name:"Persian",
-            image:"../images/27.png",
+            image:"../images/27.webp",
             types:["NORMAL"],
             sensitivity:{
                     NORMAL:1,
@@ -729,7 +729,7 @@ const pokedex=[{
         {
             id:28,
             name:"Alolan Persian",
-            image:"../images/28.png",
+            image:"../images/28.webp",
             types:["DARK"],
             sensitivity:{
                     NORMAL:1,
@@ -755,7 +755,7 @@ const pokedex=[{
         {
             id:29,
             name:"Golduck",
-            image:"../images/29.png",
+            image:"../images/29.webp",
             types:["WATER"],
             sensitivity:{
                 NORMAL:1,
@@ -781,7 +781,7 @@ const pokedex=[{
         {
             id:30,
             name:"Annihilape",
-            image:"../images/30.png",
+            image:"../images/30.webp",
             types:["FIGHTING","GHOST"],
             sensitivity:{
                     NORMAL:0,
@@ -807,7 +807,7 @@ const pokedex=[{
         {
             id:31,
             name:"Arcanine",
-            image:"../images/31.png",
+            image:"../images/31.webp",
             types:["FIRE"],
             sensitivity:{
                     NORMAL:1,
@@ -833,7 +833,7 @@ const pokedex=[{
         {
             id:32,
             name:"Poliwrath",
-            image:"../images/32.png",
+            image:"../images/32.webp",
             types:["WATER","FIGHTING"],
             sensitivity:{
                     NORMAL:1,
@@ -859,7 +859,7 @@ const pokedex=[{
         {
             id:33,
             name:"Politoed",
-            image:"../images/33.png",
+            image:"../images/33.webp",
             types:["WATER"],
             sensitivity:{
                 NORMAL:1,
@@ -885,7 +885,7 @@ const pokedex=[{
         {
             id:34,
             name:"Alakazam",
-            image:"../images/34.png",
+            image:"../images/34.webp",
             types:["PSYCHIC"],
             sensitivity:{
                     NORMAL:1,
@@ -911,7 +911,7 @@ const pokedex=[{
         {
             id:35,
             name:"Machamp",
-            image:"../images/35.png",
+            image:"../images/35.webp",
             types:["FIGHTING"],
             sensitivity:{
                     NORMAL:1,
@@ -937,7 +937,7 @@ const pokedex=[{
         {
             id:36,
             name:"Victreebel",
-            image:"../images/36.png",
+            image:"../images/36.webp",
             types:["GRASS","POISON"],
             sensitivity:{
                     NORMAL:1,
@@ -963,7 +963,7 @@ const pokedex=[{
         {
             id:37,
             name:"Tentacruel",
-            image:"../images/37.png",
+            image:"../images/37.webp",
             types:["WATER","POISON"],
             sensitivity:{
                     NORMAL:1,
@@ -989,7 +989,7 @@ const pokedex=[{
         {
             id:38,
             name:"Golem",
-            image:"../images/38.png",
+            image:"../images/38.webp",
             types:["ROCK","GROUND"],
             sensitivity:{
                     NORMAL:0.5,
@@ -1015,7 +1015,7 @@ const pokedex=[{
         {
             id:39,
             name:"Alolan Golem",
-            image:"../images/39.png",
+            image:"../images/39.webp",
             types:["ROCK","ELECTRIC"],
             sensitivity:{
                     NORMAL:0.5,
@@ -1041,7 +1041,7 @@ const pokedex=[{
         {
             id:.40,
             name:"Rapidash",
-            image:"../images/40.png",
+            image:"../images/40.webp",
             types:["FIRE"],
             sensitivity:{
                     NORMAL:1,
@@ -1067,7 +1067,7 @@ const pokedex=[{
         {
             id:41,
             name:"Galarian Rapidash",
-            image:"../images/41.png",
+            image:"../images/41.webp",
             types:["PSYCHIC","FAIRY"],
             sensitivity:{
                     NORMAL:1,
@@ -1093,7 +1093,7 @@ const pokedex=[{
         {
             id:42,
             name:"Slowbro",
-            image:"../images/42.png",
+            image:"../images/42.webp",
             types:["WATER","PSYCHIC"],
             sensitivity:{
                     NORMAL:1,
@@ -1119,7 +1119,7 @@ const pokedex=[{
         {
             id:43,
             name:"Galarian Slowbro",
-            image:"../images/43.png",
+            image:"../images/43.webp",
             types:["POISON","PSYCHIC"],
             sensitivity:{
                     NORMAL:1,
@@ -1145,7 +1145,7 @@ const pokedex=[{
         {
             id:44,
             name:"Slowking",
-            image:"../images/44.png",
+            image:"../images/44.webp",
             types:["WATER","PSYCHIC"],
             sensitivity:{
                     NORMAL:1,
@@ -1171,7 +1171,7 @@ const pokedex=[{
         {
             id:45,
             name:"Galarian Slowking",
-            image:"../images/45.png",
+            image:"../images/45.webp",
             types:["POISON","PSYCHIC"],
             sensitivity:{
                     NORMAL:1,
@@ -1197,7 +1197,7 @@ const pokedex=[{
         {
             id:46,
             name:"Magnezone",
-            image:"../images/46.png",
+            image:"../images/46.webp",
             types:["ELECTRIC","STEEL"],
             sensitivity:{
                     NORMAL:0.5,
@@ -1223,7 +1223,7 @@ const pokedex=[{
         {
             id:47,
             name:"Farfetch’d",
-            image:"../images/47.png",
+            image:"../images/47.webp",
             types:["NORMAL","FLYING"],
             sensitivity:{
                     NORMAL:1,
@@ -1249,7 +1249,7 @@ const pokedex=[{
         {
             id:48,
             name:"Galarian Farfetch’d",
-            image:"../images/48.png",
+            image:"../images/48.webp",
             types:["FIGHTING"],
             sensitivity:{
                     NORMAL:1,
@@ -1275,7 +1275,7 @@ const pokedex=[{
         {
             id:49,
             name:"Dodrio",
-            image:"../images/49.png",
+            image:"../images/49.webp",
             types:["NORMAL","FLYING"],
             sensitivity:{
                     NORMAL:1,
@@ -1301,7 +1301,7 @@ const pokedex=[{
         {
             id:50,
             name:"Dewgong",
-            image:"../images/50.png",
+            image:"../images/50.webp",
             types:["WATER","ICE"],
             sensitivity:{
                     NORMAL:1,
@@ -1327,7 +1327,7 @@ const pokedex=[{
         {
             id:51,
             name:"Muk",
-            image:"../images/51.png",
+            image:"../images/51.webp",
             types:["POISON"],
             sensitivity:{
                     NORMAL:1,
@@ -1353,7 +1353,7 @@ const pokedex=[{
         {
             id:52,
             name:"Alolan Muk",
-            image:"../images/52.png",
+            image:"../images/52.webp",
             types:["POISON","DARK"],
             sensitivity:{
                     NORMAL:1,
@@ -1379,7 +1379,7 @@ const pokedex=[{
         {
             id:53,
             name:"Cloyster",
-            image:"../images/53.png",
+            image:"../images/53.webp",
             types:["WATER","ICE"],
             sensitivity:{
                     NORMAL:1,
@@ -1405,7 +1405,7 @@ const pokedex=[{
         {
             id:54,
             name:"Gengar",
-            image:"../images/54.png",
+            image:"../images/54.webp",
             types:["GHOST","POISON"],
             sensitivity:{
                     NORMAL:0,
@@ -1431,7 +1431,7 @@ const pokedex=[{
         {
             id:55,
             name:"Steelix",
-            image:"../images/55.png",
+            image:"../images/55.webp",
             types:["STEEL","GROUND"],
             sensitivity:{
                     NORMAL:0.5,
@@ -1457,7 +1457,7 @@ const pokedex=[{
         {
             id:56,
             name:"Hypno",
-            image:"../images/56.png",
+            image:"../images/56.webp",
             types:["PSYCHIC"],
             sensitivity:{
                     NORMAL:1,
@@ -1483,7 +1483,7 @@ const pokedex=[{
         {
             id:57,
             name:"Kingler",
-            image:"../images/57.png",
+            image:"../images/57.webp",
             types:["WATER"],
             sensitivity:{
                     NORMAL:1,
@@ -1509,7 +1509,7 @@ const pokedex=[{
          {
             id:58,
             name:"Electrode",
-            image:"../images/58.png",
+            image:"../images/58.webp",
             types:["ELECTRIC"],
             sensitivity:{
                     NORMAL:1,
@@ -1535,7 +1535,7 @@ const pokedex=[{
         {
             id:59,
             name:"Hisuian Electrode",
-            image:"../images/59.png",
+            image:"../images/59.webp",
             types:["ELECTRIC","GRASS"],
             sensitivity:{
                     NORMAL:1,
@@ -1561,7 +1561,7 @@ const pokedex=[{
         {
             id:60,
             name:"Exeggutor",
-            image:"../images/60.png",
+            image:"../images/60.webp",
             types:["GRASS","PSYCHIC"],
             sensitivity:{
                     NORMAL:1,
@@ -1587,7 +1587,7 @@ const pokedex=[{
         {
             id:61,
             name:"Alolan Exeggutor",
-            image:"../images/61.png",
+            image:"../images/61.webp",
             types:["DRAGON","GRASS"],
             sensitivity:{
                     NORMAL:1,
@@ -1613,7 +1613,7 @@ const pokedex=[{
         {
             id:62,
             name:"Marowak",
-            image:"../images/62.png",
+            image:"../images/62.webp",
             types:["GROUND"],
             sensitivity:{
                     NORMAL:1,
@@ -1639,7 +1639,7 @@ const pokedex=[{
         {
             id:63,
             name:"Alolan Marowak",
-            image:"../images/63.png",
+            image:"../images/63.webp",
             types:["FIRE","GHOST"],
             sensitivity:{
                     NORMAL:0,
@@ -1665,7 +1665,7 @@ const pokedex=[{
         {
             id:64,
             name:"Hitmonlee",
-            image:"../images/64.png",
+            image:"../images/64.webp",
             types:["FIGHTING"],
             sensitivity:{
                     NORMAL:1,
@@ -1691,7 +1691,7 @@ const pokedex=[{
         {
             id:65,
             name:"Hitmonchan",
-            image:"../images/65.png",
+            image:"../images/65.webp",
             types:["FIGHTING"],
             sensitivity:{
                     NORMAL:1,
@@ -1717,7 +1717,7 @@ const pokedex=[{
         {
             id:66,
             name:"Hitmontop",
-            image:"../images/66.png",
+            image:"../images/66.webp",
             types:["FIGHTING"],
             sensitivity:{
                     NORMAL:1,
@@ -1743,7 +1743,7 @@ const pokedex=[{
         {
             id:67,
             name:"Lickilicky",
-            image:"../images/67.png",
+            image:"../images/67.webp",
             types:["NORMAL"],
             sensitivity:{
                     NORMAL:1,
@@ -1769,7 +1769,7 @@ const pokedex=[{
         {
             id:68,
             name:"Weezing",
-            image:"../images/68.png",
+            image:"../images/68.webp",
             types:["POISON"],
             sensitivity:{
                     NORMAL:1,
@@ -1795,7 +1795,7 @@ const pokedex=[{
         {
             id:69,
             name:"Galarian Weezing",
-            image:"../images/69.png",
+            image:"../images/69.webp",
             types:["POISON","FAIRY"],
             sensitivity:{
                     NORMAL:1,
@@ -1821,7 +1821,7 @@ const pokedex=[{
         {
             id:70,
             name:"Rhyperior",
-            image:"../images/70.png",
+            image:"../images/70.webp",
              types:["GROUND","ROCK"],
              sensitivity:{
                     NORMAL:0.5,
@@ -1847,7 +1847,7 @@ const pokedex=[{
         {
             id:71,
             name:"Blissey",
-            image:"../images/71.png",
+            image:"../images/71.webp",
             types:["NORMAL"],
             sensitivity:{
                     NORMAL:1,
@@ -1873,7 +1873,7 @@ const pokedex=[{
         {
             id:72,
             name:"Tangrowth",
-            image:"../images/72.png",
+            image:"../images/72.webp",
             types:["GRASS"],
             sensitivity:{
                     NORMAL:1,
@@ -1899,7 +1899,7 @@ const pokedex=[{
         {
             id:73,
             name:"Kangaskhan",
-            image:"../images/73.png",
+            image:"../images/73.webp",
             types:["NORMAL"],
             sensitivity:{
                     NORMAL:1,
@@ -1925,7 +1925,7 @@ const pokedex=[{
         {
             id:74,
             name:"Kingdra",
-            image:"../images/74.png",
+            image:"../images/74.webp",
             types:["WATER","DRAGON"],
             sensitivity:{
                     NORMAL:1,
@@ -1951,7 +1951,7 @@ const pokedex=[{
         {
             id:75,
             name:"Seaking",
-            image:"../images/75.png",
+            image:"../images/75.webp",
             types:["WATER"],
             sensitivity:{
                     NORMAL:1,
@@ -1977,7 +1977,7 @@ const pokedex=[{
         {
             id:76,
             name:"Starmie",
-            image:"../images/76.png",
+            image:"../images/76.webp",
             types:["WATER","PSYCHIC"],
             sensitivity:{
                     NORMAL:1,
@@ -2003,7 +2003,7 @@ const pokedex=[{
         {
             id:77,
             name:"Mr. Mime",
-            image:"../images/77.png",
+            image:"../images/77.webp",
             types:["PSYCHIC","FAIRY"],
             sensitivity:{
                     NORMAL:1,
@@ -2029,7 +2029,7 @@ const pokedex=[{
         {
             id:78,
             name:"Mr. Rime",
-            image:"../images/78.png",
+            image:"../images/78.webp",
             types:["ICE","PSY"],
             sensitivity:{
                     NORMAL:1,
@@ -2055,7 +2055,7 @@ const pokedex=[{
         {
             id:79,
             name:"Scizor",
-            image:"../images/79.png",
+            image:"../images/79.webp",
             types:["BUG","STEEL"],
             sensitivity:{
                     NORMAL:0.5,
@@ -2081,7 +2081,7 @@ const pokedex=[{
         {
             id:80,
             name:"Kleavor",
-            image:"../images/80.png",
+            image:"../images/80.webp",
             types:["BUG","ROCK"],
             sensitivity:{
                     NORMAL:0.5,
