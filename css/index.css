@@ -57,8 +57,9 @@ body{
 .footer-nav{
      padding:10px;
     display:flex;
-    flex-direction:column;
+    justify-content:center;
     align-items:center;
+    flex-wrap:wrap;
 }
 
 .footer-nav-a{

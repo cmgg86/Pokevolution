@@ -50,6 +50,7 @@ function getPokemon(id){
         team.push(pokemon)
         console.log(pokemon)
         if(team.length==5){
+            localStorage.removeItem("pokedex")
             localStorage.setItem("team",JSON.stringify(team))
             location.replace("fight.html")
         }
